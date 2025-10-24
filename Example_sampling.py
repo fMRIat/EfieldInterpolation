@@ -1,8 +1,10 @@
 # -*- coding: utf-8 -*-
 """
-Created on Mon Aug 11 12:51:45 2025
+This example shows how to run the a-priori simulation needed for E-field interpolation. 
+The code should be run in a SimNIBS Python environment and requires a charm-generated headmesh as input. 
+Prior to running, ensure all paths have been adjusted accordingly.
 
-@author: sarah
+% Sarah Grosshagauer, Oct 2025
 """
 
 

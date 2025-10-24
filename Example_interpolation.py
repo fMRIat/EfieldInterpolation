@@ -1,7 +1,12 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Example to test the interpolation performance
+Example to test the interpolation performance with data provided in the GitHub Repository.
+This script can be run in any Python environment which includes the required packages. 
+The interpolation code can be integrated in any other Python software, 
+e.g. allowing for combining input of a neuronavigation camera directly with stimulator communication.
+Prior to running, ensure all paths have been defined accordingly. 
+
 % Sarah Grosshagauer, Oct 2025
 """
 import sys
