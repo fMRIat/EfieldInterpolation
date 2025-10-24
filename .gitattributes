@@ -1,2 +1,2 @@
-functions/* linguist-documentation=false
-functions/* linguist-vendored
+*.py linguist-language=Python
+functions/*.py linguist-language=Python
