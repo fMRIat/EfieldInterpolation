@@ -1,2 +1,3 @@
 *.py linguist-language=Python
 functions/*.py linguist-language=Python
+exampledata/* linguist-vendored
