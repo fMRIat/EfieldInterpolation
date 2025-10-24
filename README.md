@@ -12,5 +12,6 @@ The files "coil_matrices.txt" and "coil_positions.geo" represent the output gene
 Code was created by Michael Woletz and Sarah Grosshagauer. Parts of the sampling code are based on SimNIBS functions. 
 
 # References
-L. J. Gomez, M. Dannhauer, and A. V. Peterchev, ‘Fast computational optimization of TMS coil placement for individualized electric field targeting’, NeuroImage, vol. 228, p. 117696, Mar. 2021, doi: 10.1016/j.neuroimage.2020.117696.
-A. Yershova, S. Jain, S. M. LaValle, and J. C. Mitchell, ‘Generating Uniform Incremental Grids on SO(3) Using the Hopf Fibration’, Int. J. Robot. Res., vol. 29, no. 7, pp. 801–812, June 2010, doi: 10.1177/0278364909352700.
+-) L. J. Gomez, M. Dannhauer, and A. V. Peterchev, ‘Fast computational optimization of TMS coil placement for individualized electric field targeting’, NeuroImage, vol. 228, p. 117696, Mar. 2021, doi: 10.1016/j.neuroimage.2020.117696.
+
+-) A. Yershova, S. Jain, S. M. LaValle, and J. C. Mitchell, ‘Generating Uniform Incremental Grids on SO(3) Using the Hopf Fibration’, Int. J. Robot. Res., vol. 29, no. 7, pp. 801–812, June 2010, doi: 10.1177/0278364909352700.
