@@ -24,9 +24,10 @@ apsim.below_skin_distance = 2
 apsim.above_skin_distance = 10
 apsim.search_radius = 10
 apsim.angle_sampling = 1
-apsim.spatial_resolution = 2
+apsim.spatial_resolution = 1 #needs to be 0 (=72 quaternions) or 1 (=576 quaternions)
 apsim.method = 'ADM'
 apsim.run()
+
 
 
 
